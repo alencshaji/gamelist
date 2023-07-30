@@ -64,8 +64,5 @@ a {
        flex-wrap: wrap;
        justify-content: center;
     }
-    .card{
-        margin: 0.5rem;
-    }
 }
 }
